@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/medconnect/static/css/main.041f120f.chunk.css",
-    "main.js": "/medconnect/static/js/main.2f4b45b4.chunk.js",
-    "main.js.map": "/medconnect/static/js/main.2f4b45b4.chunk.js.map",
-    "runtime-main.js": "/medconnect/static/js/runtime-main.be35b47e.js",
-    "runtime-main.js.map": "/medconnect/static/js/runtime-main.be35b47e.js.map",
-    "static/js/2.230a432d.chunk.js": "/medconnect/static/js/2.230a432d.chunk.js",
-    "static/js/2.230a432d.chunk.js.map": "/medconnect/static/js/2.230a432d.chunk.js.map",
-    "index.html": "/medconnect/index.html",
-    "static/css/main.041f120f.chunk.css.map": "/medconnect/static/css/main.041f120f.chunk.css.map",
-    "static/js/2.230a432d.chunk.js.LICENSE.txt": "/medconnect/static/js/2.230a432d.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.041f120f.chunk.css",
+    "main.js": "/static/js/main.2f4b45b4.chunk.js",
+    "main.js.map": "/static/js/main.2f4b45b4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fed55c24.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fed55c24.js.map",
+    "static/js/2.230a432d.chunk.js": "/static/js/2.230a432d.chunk.js",
+    "static/js/2.230a432d.chunk.js.map": "/static/js/2.230a432d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.041f120f.chunk.css.map": "/static/css/main.041f120f.chunk.css.map",
+    "static/js/2.230a432d.chunk.js.LICENSE.txt": "/static/js/2.230a432d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.be35b47e.js",
+    "static/js/runtime-main.fed55c24.js",
     "static/js/2.230a432d.chunk.js",
     "static/css/main.041f120f.chunk.css",
     "static/js/main.2f4b45b4.chunk.js"
